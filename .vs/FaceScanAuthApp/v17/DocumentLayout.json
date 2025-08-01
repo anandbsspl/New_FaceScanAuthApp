@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Anand_\\FaceScanAuthApp_new\\FaceScanAuthApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{291B30B8-636F-4EC0-B3B0-0EFD083AF5CB}|FaceScanAuthApp.csproj|d:\\anand_\\facescanauthapp_new\\facescanauthapp\\facescanauthapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{291B30B8-636F-4EC0-B3B0-0EFD083AF5CB}|FaceScanAuthApp.csproj|solutionrelative:facescanauthapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{291B30B8-636F-4EC0-B3B0-0EFD083AF5CB}|FaceScanAuthApp.csproj|d:\\anand_\\facescanauthapp_new\\facescanauthapp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{291B30B8-636F-4EC0-B3B0-0EFD083AF5CB}|FaceScanAuthApp.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{291B30B8-636F-4EC0-B3B0-0EFD083AF5CB}|FaceScanAuthApp.csproj|d:\\anand_\\facescanauthapp_new\\facescanauthapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{291B30B8-636F-4EC0-B3B0-0EFD083AF5CB}|FaceScanAuthApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\Anand_\\FaceScanAuthApp_new\\FaceScanAuthApp\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\Anand_\\FaceScanAuthApp_new\\FaceScanAuthApp\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-01T16:32:03.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FaceScanAuthApp.csproj",
+              "DocumentMoniker": "D:\\Anand_\\FaceScanAuthApp_new\\FaceScanAuthApp\\FaceScanAuthApp.csproj",
+              "RelativeDocumentMoniker": "FaceScanAuthApp.csproj",
+              "ToolTip": "D:\\Anand_\\FaceScanAuthApp_new\\FaceScanAuthApp\\FaceScanAuthApp.csproj",
+              "RelativeToolTip": "FaceScanAuthApp.csproj",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowB0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-30T08:42:58.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Anand_\\FaceScanAuthApp_new\\FaceScanAuthApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Anand_\\FaceScanAuthApp_new\\FaceScanAuthApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAJwCAAAAAAAAAAAYwKYCAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T04:21:05.911Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
